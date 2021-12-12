@@ -1,4 +1,4 @@
-Identificaiton ordre 1
+﻿Identification ordre 1
 Identification ordre 2
 
 Détermination de J d'une pièce qq
