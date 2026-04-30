@@ -4,3 +4,6 @@ B_Fiches_Protocoles/Hacheurs/slprj/sim/varcache/controlX_objectif_4/checksumOfCa
 B_Fiches_Protocoles/Hacheurs/slprj/sim/varcache/controlX_objectif_4/tmwinternal/simulink_cache.xml
 B_Fiches_Protocoles/Hacheurs/slprj/sim/varcache/controlX_objectif_4/varInfo.mat
 11_Tourelle/slprj/
+*.mat
+*.slxc
+*.xml
